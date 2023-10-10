@@ -25,3 +25,6 @@ XM
 # What is Dart used for?
 Image result for dart
 Dart is a client-optimized language for developing fast apps on any platform. Its goal is to offer the most productive programming language for multi-platform development, paired with a flexible execution runtime platform for app frameworks.
+
+# Is Dart similar to C++?
+Dart shares some similarities with Java and C++ in terms of syntax and object-oriented programming concepts, but it also has distinct features and a different ecosystem.
